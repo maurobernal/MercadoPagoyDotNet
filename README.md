@@ -5,7 +5,7 @@ Demo de Mercado Pago y Net 6.0
 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Net 6.0](https://dotnet.com)
+* [Net 6.0](https://dotnet.microsoft.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -13,7 +13,7 @@ Demo de Mercado Pago y Net 6.0
 ## Contact
 
 Twitter: [@_maurobernal](https://twitter.com/_maurobernal)
-TikTok: [@_maurobernal](https://tiktok/@_maurobernal)
+TikTok: [@_maurobernal](https://tiktok.com/@_maurobernal)
 Youtube: [@maurobernal](https://youtube.com/c/maurobernal)
 
 Project Link: [https://github.com/maurobernal/MercadoPagoyDotNet](https://github.com/maurobernal/MercadoPagoyDotNet)
