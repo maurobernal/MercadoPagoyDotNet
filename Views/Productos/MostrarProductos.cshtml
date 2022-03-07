@@ -1,7 +1,7 @@
 @using MPIntegracion.Models;
 
 @{
-    var Productos = ViewData["Productos"] as List<ProductoDTO>;
+    var Productos = (ViewData["Productos"] as List<ProductoDTO>)?? new List<ProductoDTO>();
 }
 <div class="container">
     <h1>Productos</h1>
